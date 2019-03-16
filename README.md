@@ -1,2 +1,2 @@
 # DigViz
-digital visualization web
+Group Project
